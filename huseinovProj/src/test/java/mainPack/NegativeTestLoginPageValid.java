@@ -6,5 +6,6 @@ package mainPack;
 public class NegativeTestLoginPageValid {
     public void some(){
         System.out.println("This is test ");
+        System.out.println("this sysout was created on git");
     }
 }
