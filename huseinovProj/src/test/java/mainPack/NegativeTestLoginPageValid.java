@@ -5,6 +5,6 @@ package mainPack;
  */
 public class NegativeTestLoginPageValid {
     public void some(){
-        System.out.println("");
+        System.out.println("This is test ");
     }
 }
